@@ -1,0 +1,2611 @@
+{
+  "@esbuild/android-arm!0.17.14?": [
+    "0.17.14",
+    {
+      "name": "@esbuild/android-arm",
+      "dist": {
+        "tarball": "https://registry.npmjs.org/@esbuild/android-arm/-/android-arm-0.17.14.tgz"
+      },
+      "os": [
+        "android"
+      ],
+      "cpu": [
+        "arm"
+      ]
+    }
+  ],
+  "@esbuild/android-arm64!0.17.14?": [
+    "0.17.14",
+    {
+      "name": "@esbuild/android-arm64",
+      "dist": {
+        "tarball": "https://registry.npmjs.org/@esbuild/android-arm64/-/android-arm64-0.17.14.tgz"
+      },
+      "os": [
+        "android"
+      ],
+      "cpu": [
+        "arm64"
+      ]
+    }
+  ],
+  "@esbuild/android-x64!0.17.14?": [
+    "0.17.14",
+    {
+      "name": "@esbuild/android-x64",
+      "dist": {
+        "tarball": "https://registry.npmjs.org/@esbuild/android-x64/-/android-x64-0.17.14.tgz"
+      },
+      "os": [
+        "android"
+      ],
+      "cpu": [
+        "x64"
+      ]
+    }
+  ],
+  "@esbuild/darwin-arm64!>=0.15.18 <0.16.0-0": [
+    "0.15.18",
+    {
+      "name": "@esbuild/darwin-arm64",
+      "dist": {
+        "tarball": "https://registry.npmjs.org/@esbuild/darwin-arm64/-/darwin-arm64-0.15.18.tgz"
+      },
+      "os": [
+        "darwin"
+      ],
+      "cpu": [
+        "arm64"
+      ]
+    }
+  ],
+  "@esbuild/darwin-arm64!0.17.14?": [
+    "0.17.14",
+    {
+      "name": "@esbuild/darwin-arm64",
+      "dist": {
+        "tarball": "https://registry.npmjs.org/@esbuild/darwin-arm64/-/darwin-arm64-0.17.14.tgz"
+      },
+      "os": [
+        "darwin"
+      ],
+      "cpu": [
+        "arm64"
+      ]
+    }
+  ],
+  "@esbuild/darwin-x64!0.17.14?": [
+    "0.17.14",
+    {
+      "name": "@esbuild/darwin-x64",
+      "dist": {
+        "tarball": "https://registry.npmjs.org/@esbuild/darwin-x64/-/darwin-x64-0.17.14.tgz"
+      },
+      "os": [
+        "darwin"
+      ],
+      "cpu": [
+        "x64"
+      ]
+    }
+  ],
+  "@esbuild/freebsd-arm64!0.17.14?": [
+    "0.17.14",
+    {
+      "name": "@esbuild/freebsd-arm64",
+      "dist": {
+        "tarball": "https://registry.npmjs.org/@esbuild/freebsd-arm64/-/freebsd-arm64-0.17.14.tgz"
+      },
+      "os": [
+        "freebsd"
+      ],
+      "cpu": [
+        "arm64"
+      ]
+    }
+  ],
+  "@esbuild/freebsd-x64!0.17.14?": [
+    "0.17.14",
+    {
+      "name": "@esbuild/freebsd-x64",
+      "dist": {
+        "tarball": "https://registry.npmjs.org/@esbuild/freebsd-x64/-/freebsd-x64-0.17.14.tgz"
+      },
+      "os": [
+        "freebsd"
+      ],
+      "cpu": [
+        "x64"
+      ]
+    }
+  ],
+  "@esbuild/linux-arm!0.17.14?": [
+    "0.17.14",
+    {
+      "name": "@esbuild/linux-arm",
+      "dist": {
+        "tarball": "https://registry.npmjs.org/@esbuild/linux-arm/-/linux-arm-0.17.14.tgz"
+      },
+      "os": [
+        "linux"
+      ],
+      "cpu": [
+        "arm"
+      ]
+    }
+  ],
+  "@esbuild/linux-arm64!0.17.14?": [
+    "0.17.14",
+    {
+      "name": "@esbuild/linux-arm64",
+      "dist": {
+        "tarball": "https://registry.npmjs.org/@esbuild/linux-arm64/-/linux-arm64-0.17.14.tgz"
+      },
+      "os": [
+        "linux"
+      ],
+      "cpu": [
+        "arm64"
+      ]
+    }
+  ],
+  "@esbuild/linux-ia32!0.17.14?": [
+    "0.17.14",
+    {
+      "name": "@esbuild/linux-ia32",
+      "dist": {
+        "tarball": "https://registry.npmjs.org/@esbuild/linux-ia32/-/linux-ia32-0.17.14.tgz"
+      },
+      "os": [
+        "linux"
+      ],
+      "cpu": [
+        "ia32"
+      ]
+    }
+  ],
+  "@esbuild/linux-loong64!0.17.14?": [
+    "0.17.14",
+    {
+      "name": "@esbuild/linux-loong64",
+      "dist": {
+        "tarball": "https://registry.npmjs.org/@esbuild/linux-loong64/-/linux-loong64-0.17.14.tgz"
+      },
+      "os": [
+        "linux"
+      ],
+      "cpu": [
+        "loong64"
+      ]
+    }
+  ],
+  "@esbuild/linux-mips64el!0.17.14?": [
+    "0.17.14",
+    {
+      "name": "@esbuild/linux-mips64el",
+      "dist": {
+        "tarball": "https://registry.npmjs.org/@esbuild/linux-mips64el/-/linux-mips64el-0.17.14.tgz"
+      },
+      "os": [
+        "linux"
+      ],
+      "cpu": [
+        "mips64el"
+      ]
+    }
+  ],
+  "@esbuild/linux-ppc64!0.17.14?": [
+    "0.17.14",
+    {
+      "name": "@esbuild/linux-ppc64",
+      "dist": {
+        "tarball": "https://registry.npmjs.org/@esbuild/linux-ppc64/-/linux-ppc64-0.17.14.tgz"
+      },
+      "os": [
+        "linux"
+      ],
+      "cpu": [
+        "ppc64"
+      ]
+    }
+  ],
+  "@esbuild/linux-riscv64!0.17.14?": [
+    "0.17.14",
+    {
+      "name": "@esbuild/linux-riscv64",
+      "dist": {
+        "tarball": "https://registry.npmjs.org/@esbuild/linux-riscv64/-/linux-riscv64-0.17.14.tgz"
+      },
+      "os": [
+        "linux"
+      ],
+      "cpu": [
+        "riscv64"
+      ]
+    }
+  ],
+  "@esbuild/linux-s390x!0.17.14?": [
+    "0.17.14",
+    {
+      "name": "@esbuild/linux-s390x",
+      "dist": {
+        "tarball": "https://registry.npmjs.org/@esbuild/linux-s390x/-/linux-s390x-0.17.14.tgz"
+      },
+      "os": [
+        "linux"
+      ],
+      "cpu": [
+        "s390x"
+      ]
+    }
+  ],
+  "@esbuild/linux-x64!0.17.14?": [
+    "0.17.14",
+    {
+      "name": "@esbuild/linux-x64",
+      "dist": {
+        "tarball": "https://registry.npmjs.org/@esbuild/linux-x64/-/linux-x64-0.17.14.tgz"
+      },
+      "os": [
+        "linux"
+      ],
+      "cpu": [
+        "x64"
+      ]
+    }
+  ],
+  "@esbuild/netbsd-x64!0.17.14?": [
+    "0.17.14",
+    {
+      "name": "@esbuild/netbsd-x64",
+      "dist": {
+        "tarball": "https://registry.npmjs.org/@esbuild/netbsd-x64/-/netbsd-x64-0.17.14.tgz"
+      },
+      "os": [
+        "netbsd"
+      ],
+      "cpu": [
+        "x64"
+      ]
+    }
+  ],
+  "@esbuild/openbsd-x64!0.17.14?": [
+    "0.17.14",
+    {
+      "name": "@esbuild/openbsd-x64",
+      "dist": {
+        "tarball": "https://registry.npmjs.org/@esbuild/openbsd-x64/-/openbsd-x64-0.17.14.tgz"
+      },
+      "os": [
+        "openbsd"
+      ],
+      "cpu": [
+        "x64"
+      ]
+    }
+  ],
+  "@esbuild/sunos-x64!0.17.14?": [
+    "0.17.14",
+    {
+      "name": "@esbuild/sunos-x64",
+      "dist": {
+        "tarball": "https://registry.npmjs.org/@esbuild/sunos-x64/-/sunos-x64-0.17.14.tgz"
+      },
+      "os": [
+        "sunos"
+      ],
+      "cpu": [
+        "x64"
+      ]
+    }
+  ],
+  "@esbuild/win32-arm64!0.17.14?": [
+    "0.17.14",
+    {
+      "name": "@esbuild/win32-arm64",
+      "dist": {
+        "tarball": "https://registry.npmjs.org/@esbuild/win32-arm64/-/win32-arm64-0.17.14.tgz"
+      },
+      "os": [
+        "win32"
+      ],
+      "cpu": [
+        "arm64"
+      ]
+    }
+  ],
+  "@esbuild/win32-ia32!0.17.14?": [
+    "0.17.14",
+    {
+      "name": "@esbuild/win32-ia32",
+      "dist": {
+        "tarball": "https://registry.npmjs.org/@esbuild/win32-ia32/-/win32-ia32-0.17.14.tgz"
+      },
+      "os": [
+        "win32"
+      ],
+      "cpu": [
+        "ia32"
+      ]
+    }
+  ],
+  "@esbuild/win32-x64!0.17.14?": [
+    "0.17.14",
+    {
+      "name": "@esbuild/win32-x64",
+      "dist": {
+        "tarball": "https://registry.npmjs.org/@esbuild/win32-x64/-/win32-x64-0.17.14.tgz"
+      },
+      "os": [
+        "win32"
+      ],
+      "cpu": [
+        "x64"
+      ]
+    }
+  ],
+  "@jridgewell/resolve-uri!3.1.0": [
+    "3.1.0",
+    {
+      "name": "@jridgewell/resolve-uri",
+      "dist": {
+        "tarball": "https://registry.npmjs.org/@jridgewell/resolve-uri/-/resolve-uri-3.1.0.tgz"
+      },
+      "scripts": {
+        "build": "run-s -n build:*",
+        "build:rollup": "rollup -c rollup.config.js",
+        "build:ts": "tsc --project tsconfig.build.json",
+        "lint": "run-s -n lint:*",
+        "lint:prettier": "npm run test:lint:prettier -- --write",
+        "lint:ts": "npm run test:lint:ts -- --fix",
+        "prebuild": "rm -rf dist",
+        "prepublishOnly": "npm run preversion",
+        "pretest": "run-s build:rollup",
+        "preversion": "run-s test build",
+        "test": "run-s -n test:lint test:only",
+        "test:coverage": "c8 mocha",
+        "test:debug": "mocha --inspect-brk",
+        "test:lint": "run-s -n test:lint:*",
+        "test:lint:prettier": "prettier --check '{src,test}/**/*.ts'",
+        "test:lint:ts": "eslint '{src,test}/**/*.ts'",
+        "test:only": "mocha",
+        "test:watch": "mocha --watch"
+      }
+    }
+  ],
+  "@jridgewell/sourcemap-codec!1.4.14": [
+    "1.4.14",
+    {
+      "name": "@jridgewell/sourcemap-codec",
+      "dist": {
+        "tarball": "https://registry.npmjs.org/@jridgewell/sourcemap-codec/-/sourcemap-codec-1.4.14.tgz"
+      },
+      "scripts": {
+        "benchmark": "run-s build:rollup benchmark:*",
+        "benchmark:install": "cd benchmark && npm install",
+        "benchmark:only": "node --expose-gc benchmark/index.js",
+        "build": "run-s -n build:*",
+        "build:rollup": "rollup -c rollup.config.js",
+        "build:ts": "tsc --project tsconfig.build.json",
+        "lint": "run-s -n lint:*",
+        "lint:prettier": "npm run test:lint:prettier -- --write",
+        "lint:ts": "npm run test:lint:ts -- --fix",
+        "prebuild": "rm -rf dist",
+        "prepublishOnly": "npm run preversion",
+        "pretest": "run-s build:rollup",
+        "preversion": "run-s test build",
+        "test": "run-s -n test:lint test:only",
+        "test:coverage": "c8 mocha",
+        "test:debug": "mocha --inspect-brk",
+        "test:lint": "run-s -n test:lint:*",
+        "test:lint:prettier": "prettier --check '{src,test}/**/*.ts'",
+        "test:lint:ts": "eslint '{src,test}/**/*.ts'",
+        "test:only": "mocha",
+        "test:watch": "mocha --watch"
+      }
+    }
+  ],
+  "@jridgewell/sourcemap-codec!>=1.4.13 <2.0.0-0": [
+    "1.4.14",
+    {
+      "name": "@jridgewell/sourcemap-codec",
+      "dist": {
+        "tarball": "https://registry.npmjs.org/@jridgewell/sourcemap-codec/-/sourcemap-codec-1.4.14.tgz"
+      },
+      "scripts": {
+        "benchmark": "run-s build:rollup benchmark:*",
+        "benchmark:install": "cd benchmark && npm install",
+        "benchmark:only": "node --expose-gc benchmark/index.js",
+        "build": "run-s -n build:*",
+        "build:rollup": "rollup -c rollup.config.js",
+        "build:ts": "tsc --project tsconfig.build.json",
+        "lint": "run-s -n lint:*",
+        "lint:prettier": "npm run test:lint:prettier -- --write",
+        "lint:ts": "npm run test:lint:ts -- --fix",
+        "prebuild": "rm -rf dist",
+        "prepublishOnly": "npm run preversion",
+        "pretest": "run-s build:rollup",
+        "preversion": "run-s test build",
+        "test": "run-s -n test:lint test:only",
+        "test:coverage": "c8 mocha",
+        "test:debug": "mocha --inspect-brk",
+        "test:lint": "run-s -n test:lint:*",
+        "test:lint:prettier": "prettier --check '{src,test}/**/*.ts'",
+        "test:lint:ts": "eslint '{src,test}/**/*.ts'",
+        "test:only": "mocha",
+        "test:watch": "mocha --watch"
+      }
+    }
+  ],
+  "@jridgewell/sourcemap-codec!>=1.4.14 <2.0.0-0": [
+    "1.4.14",
+    {
+      "name": "@jridgewell/sourcemap-codec",
+      "dist": {
+        "tarball": "https://registry.npmjs.org/@jridgewell/sourcemap-codec/-/sourcemap-codec-1.4.14.tgz"
+      },
+      "scripts": {
+        "benchmark": "run-s build:rollup benchmark:*",
+        "benchmark:install": "cd benchmark && npm install",
+        "benchmark:only": "node --expose-gc benchmark/index.js",
+        "build": "run-s -n build:*",
+        "build:rollup": "rollup -c rollup.config.js",
+        "build:ts": "tsc --project tsconfig.build.json",
+        "lint": "run-s -n lint:*",
+        "lint:prettier": "npm run test:lint:prettier -- --write",
+        "lint:ts": "npm run test:lint:ts -- --fix",
+        "prebuild": "rm -rf dist",
+        "prepublishOnly": "npm run preversion",
+        "pretest": "run-s build:rollup",
+        "preversion": "run-s test build",
+        "test": "run-s -n test:lint test:only",
+        "test:coverage": "c8 mocha",
+        "test:debug": "mocha --inspect-brk",
+        "test:lint": "run-s -n test:lint:*",
+        "test:lint:prettier": "prettier --check '{src,test}/**/*.ts'",
+        "test:lint:ts": "eslint '{src,test}/**/*.ts'",
+        "test:only": "mocha",
+        "test:watch": "mocha --watch"
+      }
+    }
+  ],
+  "@jridgewell/trace-mapping!>=0.3.17 <0.4.0-0": [
+    "0.3.17",
+    {
+      "name": "@jridgewell/trace-mapping",
+      "dist": {
+        "tarball": "https://registry.npmjs.org/@jridgewell/trace-mapping/-/trace-mapping-0.3.17.tgz"
+      },
+      "dependencies": {
+        "@jridgewell/resolve-uri": "3.1.0",
+        "@jridgewell/sourcemap-codec": "1.4.14"
+      },
+      "scripts": {
+        "benchmark": "run-s build:rollup benchmark:*",
+        "benchmark:install": "cd benchmark && npm install",
+        "benchmark:only": "node --expose-gc benchmark/index.mjs",
+        "build": "run-s -n build:*",
+        "build:rollup": "rollup -c rollup.config.js",
+        "build:ts": "tsc --project tsconfig.build.json",
+        "lint": "run-s -n lint:*",
+        "lint:prettier": "npm run test:lint:prettier -- --write",
+        "lint:ts": "npm run test:lint:ts -- --fix",
+        "prebuild": "rm -rf dist",
+        "prepublishOnly": "npm run preversion",
+        "preversion": "run-s test build",
+        "test": "run-s -n test:lint test:only",
+        "test:debug": "ava debug",
+        "test:lint": "run-s -n test:lint:*",
+        "test:lint:prettier": "prettier --check '{src,test}/**/*.ts' '**/*.md'",
+        "test:lint:ts": "eslint '{src,test}/**/*.ts'",
+        "test:only": "c8 ava",
+        "test:watch": "ava --watch"
+      }
+    }
+  ],
+  "@nodelib/fs.scandir!2.1.5": [
+    "2.1.5",
+    {
+      "name": "@nodelib/fs.scandir",
+      "dist": {
+        "tarball": "https://registry.npmjs.org/@nodelib/fs.scandir/-/fs.scandir-2.1.5.tgz"
+      },
+      "dependencies": {
+        "@nodelib/fs.stat": "2.0.5",
+        "run-parallel": ">=1.1.9 <2.0.0-0"
+      },
+      "scripts": {
+        "build": "npm run clean && npm run compile && npm run lint && npm test",
+        "clean": "rimraf {tsconfig.tsbuildinfo,out}",
+        "compile": "tsc -b .",
+        "compile:watch": "tsc -p . --watch --sourceMap",
+        "lint": "eslint \"src/**/*.ts\" --cache",
+        "test": "mocha \"out/**/*.spec.js\" -s 0",
+        "watch": "npm run clean && npm run compile:watch"
+      }
+    }
+  ],
+  "@nodelib/fs.stat!2.0.5": [
+    "2.0.5",
+    {
+      "name": "@nodelib/fs.stat",
+      "dist": {
+        "tarball": "https://registry.npmjs.org/@nodelib/fs.stat/-/fs.stat-2.0.5.tgz"
+      },
+      "scripts": {
+        "build": "npm run clean && npm run compile && npm run lint && npm test",
+        "clean": "rimraf {tsconfig.tsbuildinfo,out}",
+        "compile": "tsc -b .",
+        "compile:watch": "tsc -p . --watch --sourceMap",
+        "lint": "eslint \"src/**/*.ts\" --cache",
+        "test": "mocha \"out/**/*.spec.js\" -s 0",
+        "watch": "npm run clean && npm run compile:watch"
+      }
+    }
+  ],
+  "@nodelib/fs.stat!>=2.0.2 <3.0.0-0": [
+    "2.0.5",
+    {
+      "name": "@nodelib/fs.stat",
+      "dist": {
+        "tarball": "https://registry.npmjs.org/@nodelib/fs.stat/-/fs.stat-2.0.5.tgz"
+      },
+      "scripts": {
+        "build": "npm run clean && npm run compile && npm run lint && npm test",
+        "clean": "rimraf {tsconfig.tsbuildinfo,out}",
+        "compile": "tsc -b .",
+        "compile:watch": "tsc -p . --watch --sourceMap",
+        "lint": "eslint \"src/**/*.ts\" --cache",
+        "test": "mocha \"out/**/*.spec.js\" -s 0",
+        "watch": "npm run clean && npm run compile:watch"
+      }
+    }
+  ],
+  "@nodelib/fs.walk!>=1.2.3 <2.0.0-0": [
+    "1.2.8",
+    {
+      "name": "@nodelib/fs.walk",
+      "dist": {
+        "tarball": "https://registry.npmjs.org/@nodelib/fs.walk/-/fs.walk-1.2.8.tgz"
+      },
+      "dependencies": {
+        "@nodelib/fs.scandir": "2.1.5",
+        "fastq": ">=1.6.0 <2.0.0-0"
+      },
+      "scripts": {
+        "build": "npm run clean && npm run compile && npm run lint && npm test",
+        "clean": "rimraf {tsconfig.tsbuildinfo,out}",
+        "compile": "tsc -b .",
+        "compile:watch": "tsc -p . --watch --sourceMap",
+        "lint": "eslint \"src/**/*.ts\" --cache",
+        "test": "mocha \"out/**/*.spec.js\" -s 0",
+        "watch": "npm run clean && npm run compile:watch"
+      }
+    }
+  ],
+  "@polka/url!>=1.0.0-next.20 <2.0.0-0": [
+    "1.0.0-next.21",
+    {
+      "name": "@polka/url",
+      "dist": {
+        "tarball": "https://registry.npmjs.org/@polka/url/-/url-1.0.0-next.21.tgz"
+      }
+    }
+  ],
+  "@sveltejs/adapter-auto!>=2.0.0 <3.0.0-0": [
+    "2.0.0",
+    {
+      "name": "@sveltejs/adapter-auto",
+      "dist": {
+        "tarball": "https://registry.npmjs.org/@sveltejs/adapter-auto/-/adapter-auto-2.0.0.tgz"
+      },
+      "dependencies": {
+        "import-meta-resolve": ">=2.2.0 <3.0.0-0"
+      },
+      "scripts": {
+        "check": "tsc",
+        "format": "pnpm lint --write",
+        "lint": "prettier --check . --config ../../.prettierrc --ignore-path .gitignore"
+      }
+    }
+  ],
+  "@sveltejs/kit!>=1.5.0 <2.0.0-0": [
+    "1.14.0",
+    {
+      "name": "@sveltejs/kit",
+      "dist": {
+        "tarball": "https://registry.npmjs.org/@sveltejs/kit/-/kit-1.14.0.tgz"
+      },
+      "dependencies": {
+        "@sveltejs/vite-plugin-svelte": ">=2.0.0 <3.0.0-0",
+        "@types/cookie": ">=0.5.1 <0.6.0-0",
+        "cookie": ">=0.5.0 <0.6.0-0",
+        "devalue": ">=4.3.0 <5.0.0-0",
+        "esm-env": ">=1.0.0 <2.0.0-0",
+        "kleur": ">=4.1.5 <5.0.0-0",
+        "magic-string": ">=0.30.0 <0.31.0-0",
+        "mime": ">=3.0.0 <4.0.0-0",
+        "sade": ">=1.8.1 <2.0.0-0",
+        "set-cookie-parser": ">=2.5.1 <3.0.0-0",
+        "sirv": ">=2.0.2 <3.0.0-0",
+        "tiny-glob": ">=0.2.9 <0.3.0-0",
+        "undici": "5.21.0"
+      },
+      "bin": {
+        "svelte-kit": "svelte-kit.js"
+      },
+      "scripts": {
+        "check": "tsc",
+        "check:all": "tsc && pnpm -r --filter=\"./**\" check",
+        "format": "prettier --write . --config ../../.prettierrc --ignore-path .gitignore",
+        "lint": "prettier --check . --config ../../.prettierrc --ignore-path .gitignore",
+        "postinstall": "node postinstall.js",
+        "test": "pnpm test:unit && pnpm test:integration",
+        "test:cross-platform:build": "pnpm test:unit && pnpm -r --workspace-concurrency 1 --filter=\"./test/**\" test:cross-platform:build",
+        "test:cross-platform:dev": "pnpm -r --workspace-concurrency 1 --filter=\"./test/**\" test:cross-platform:dev",
+        "test:integration": "pnpm -r --workspace-concurrency 1 --filter=\"./test/**\" test",
+        "test:unit": "uvu src \"(spec\\.js|test[\\\\/]index\\.js)\""
+      }
+    }
+  ],
+  "@sveltejs/vite-plugin-svelte!>=2.0.0 <3.0.0-0": [
+    "2.0.3",
+    {
+      "name": "@sveltejs/vite-plugin-svelte",
+      "dist": {
+        "tarball": "https://registry.npmjs.org/@sveltejs/vite-plugin-svelte/-/vite-plugin-svelte-2.0.3.tgz"
+      },
+      "dependencies": {
+        "debug": ">=4.3.4 <5.0.0-0",
+        "deepmerge": ">=4.3.0 <5.0.0-0",
+        "kleur": ">=4.1.5 <5.0.0-0",
+        "magic-string": ">=0.29.0 <0.30.0-0",
+        "svelte-hmr": ">=0.15.1 <0.16.0-0",
+        "vitefu": ">=0.2.4 <0.3.0-0"
+      },
+      "scripts": {
+        "build": "pnpm build:ci --dts --sourcemap",
+        "build:ci": "rimraf dist && tsup-node src/index.ts --format esm",
+        "dev": "pnpm build:ci --sourcemap --watch src"
+      }
+    }
+  ],
+  "@types/cookie!>=0.5.1 <0.6.0-0": [
+    "0.5.1",
+    {
+      "name": "@types/cookie",
+      "dist": {
+        "tarball": "https://registry.npmjs.org/@types/cookie/-/cookie-0.5.1.tgz"
+      }
+    }
+  ],
+  "@types/pug!>=2.0.6 <3.0.0-0": [
+    "2.0.6",
+    {
+      "name": "@types/pug",
+      "dist": {
+        "tarball": "https://registry.npmjs.org/@types/pug/-/pug-2.0.6.tgz"
+      }
+    }
+  ],
+  "anymatch!>=3.1.2 <3.2.0-0": [
+    "3.1.3",
+    {
+      "name": "anymatch",
+      "dist": {
+        "tarball": "https://registry.npmjs.org/anymatch/-/anymatch-3.1.3.tgz"
+      },
+      "dependencies": {
+        "normalize-path": ">=3.0.0 <4.0.0-0",
+        "picomatch": ">=2.0.4 <3.0.0-0"
+      },
+      "scripts": {
+        "mocha": "mocha",
+        "test": "nyc mocha"
+      }
+    }
+  ],
+  "balanced-match!>=1.0.0 <2.0.0-0": [
+    "1.0.2",
+    {
+      "name": "balanced-match",
+      "dist": {
+        "tarball": "https://registry.npmjs.org/balanced-match/-/balanced-match-1.0.2.tgz"
+      },
+      "scripts": {
+        "bench": "matcha test/bench.js",
+        "test": "tape test/test.js"
+      }
+    }
+  ],
+  "binary-extensions!>=2.0.0 <3.0.0-0": [
+    "2.2.0",
+    {
+      "name": "binary-extensions",
+      "dist": {
+        "tarball": "https://registry.npmjs.org/binary-extensions/-/binary-extensions-2.2.0.tgz"
+      },
+      "scripts": {
+        "test": "xo && ava && tsd"
+      }
+    }
+  ],
+  "brace-expansion!>=1.1.7 <2.0.0-0": [
+    "1.1.11",
+    {
+      "name": "brace-expansion",
+      "dist": {
+        "tarball": "https://registry.npmjs.org/brace-expansion/-/brace-expansion-1.1.11.tgz"
+      },
+      "dependencies": {
+        "balanced-match": ">=1.0.0 <2.0.0-0",
+        "concat-map": "0.0.1"
+      },
+      "scripts": {
+        "bench": "matcha test/perf/bench.js",
+        "gentest": "bash test/generate.sh",
+        "test": "tape test/*.js"
+      }
+    }
+  ],
+  "braces!>=3.0.2 <3.1.0-0": [
+    "3.0.2",
+    {
+      "name": "braces",
+      "dist": {
+        "tarball": "https://registry.npmjs.org/braces/-/braces-3.0.2.tgz"
+      },
+      "dependencies": {
+        "fill-range": ">=7.0.1 <8.0.0-0"
+      },
+      "scripts": {
+        "benchmark": "node benchmark",
+        "test": "mocha"
+      }
+    }
+  ],
+  "braces!>=3.0.2 <4.0.0-0": [
+    "3.0.2",
+    {
+      "name": "braces",
+      "dist": {
+        "tarball": "https://registry.npmjs.org/braces/-/braces-3.0.2.tgz"
+      },
+      "dependencies": {
+        "fill-range": ">=7.0.1 <8.0.0-0"
+      },
+      "scripts": {
+        "benchmark": "node benchmark",
+        "test": "mocha"
+      }
+    }
+  ],
+  "buffer-crc32!>=0.2.5 <0.3.0-0": [
+    "0.2.13",
+    {
+      "name": "buffer-crc32",
+      "dist": {
+        "tarball": "https://registry.npmjs.org/buffer-crc32/-/buffer-crc32-0.2.13.tgz"
+      },
+      "scripts": {
+        "test": "tap tests/*.test.js"
+      }
+    }
+  ],
+  "busboy!>=1.6.0 <2.0.0-0": [
+    "1.6.0",
+    {
+      "name": "busboy",
+      "dist": {
+        "tarball": "https://registry.npmjs.org/busboy/-/busboy-1.6.0.tgz"
+      },
+      "dependencies": {
+        "streamsearch": ">=1.1.0 <2.0.0-0"
+      },
+      "scripts": {
+        "lint": "eslint --cache --report-unused-disable-directives --ext=.js .eslintrc.js lib test bench",
+        "lint:fix": "npm run lint -- --fix",
+        "test": "node test/test.js"
+      }
+    }
+  ],
+  "callsites!>=3.0.0 <4.0.0-0": [
+    "3.1.0",
+    {
+      "name": "callsites",
+      "dist": {
+        "tarball": "https://registry.npmjs.org/callsites/-/callsites-3.1.0.tgz"
+      },
+      "scripts": {
+        "test": "xo && ava && tsd"
+      }
+    }
+  ],
+  "chokidar!>=3.4.1 <4.0.0-0": [
+    "3.5.3",
+    {
+      "name": "chokidar",
+      "dist": {
+        "tarball": "https://registry.npmjs.org/chokidar/-/chokidar-3.5.3.tgz"
+      },
+      "dependencies": {
+        "anymatch": ">=3.1.2 <3.2.0-0",
+        "braces": ">=3.0.2 <3.1.0-0",
+        "fsevents": ">=2.3.2 <2.4.0-0",
+        "glob-parent": ">=5.1.2 <5.2.0-0",
+        "is-binary-path": ">=2.1.0 <2.2.0-0",
+        "is-glob": ">=4.0.1 <4.1.0-0",
+        "normalize-path": ">=3.0.0 <3.1.0-0",
+        "readdirp": ">=3.6.0 <3.7.0-0"
+      },
+      "optionalDependencies": {
+        "fsevents": ">=2.3.2 <2.4.0-0"
+      },
+      "scripts": {
+        "dtslint": "dtslint types",
+        "lint": "eslint --report-unused-disable-directives --ignore-path .gitignore .",
+        "mocha": "mocha --exit --timeout 90000",
+        "test": "npm run lint && npm run mocha"
+      }
+    }
+  ],
+  "chokidar!>=3.0.0 <4.0.0": [
+    "3.5.3",
+    {
+      "name": "chokidar",
+      "dist": {
+        "tarball": "https://registry.npmjs.org/chokidar/-/chokidar-3.5.3.tgz"
+      },
+      "dependencies": {
+        "anymatch": ">=3.1.2 <3.2.0-0",
+        "braces": ">=3.0.2 <3.1.0-0",
+        "fsevents": ">=2.3.2 <2.4.0-0",
+        "glob-parent": ">=5.1.2 <5.2.0-0",
+        "is-binary-path": ">=2.1.0 <2.2.0-0",
+        "is-glob": ">=4.0.1 <4.1.0-0",
+        "normalize-path": ">=3.0.0 <3.1.0-0",
+        "readdirp": ">=3.6.0 <3.7.0-0"
+      },
+      "optionalDependencies": {
+        "fsevents": ">=2.3.2 <2.4.0-0"
+      },
+      "scripts": {
+        "dtslint": "dtslint types",
+        "lint": "eslint --report-unused-disable-directives --ignore-path .gitignore .",
+        "mocha": "mocha --exit --timeout 90000",
+        "test": "npm run lint && npm run mocha"
+      }
+    }
+  ],
+  "concat-map!0.0.1": [
+    "0.0.1",
+    {
+      "name": "concat-map",
+      "dist": {
+        "tarball": "https://registry.npmjs.org/concat-map/-/concat-map-0.0.1.tgz"
+      },
+      "scripts": {
+        "test": "tape test/*.js"
+      }
+    }
+  ],
+  "cookie!>=0.5.0 <0.6.0-0": [
+    "0.5.0",
+    {
+      "name": "cookie",
+      "dist": {
+        "tarball": "https://registry.npmjs.org/cookie/-/cookie-0.5.0.tgz"
+      },
+      "scripts": {
+        "bench": "node benchmark/index.js",
+        "lint": "eslint .",
+        "test": "mocha --reporter spec --bail --check-leaks test/",
+        "test-ci": "nyc --reporter=lcov --reporter=text npm test",
+        "test-cov": "nyc --reporter=html --reporter=text npm test",
+        "update-bench": "node scripts/update-benchmark.js",
+        "version": "node scripts/version-history.js && git add HISTORY.md"
+      }
+    }
+  ],
+  "debug!>=4.3.4 <5.0.0-0": [
+    "4.3.4",
+    {
+      "name": "debug",
+      "dist": {
+        "tarball": "https://registry.npmjs.org/debug/-/debug-4.3.4.tgz"
+      },
+      "dependencies": {
+        "ms": "2.1.2"
+      },
+      "scripts": {
+        "lint": "xo",
+        "test": "npm run test:node && npm run test:browser && npm run lint",
+        "test:browser": "karma start --single-run",
+        "test:coverage": "cat ./coverage/lcov.info | coveralls",
+        "test:node": "istanbul cover _mocha -- test.js"
+      }
+    }
+  ],
+  "deepmerge!>=4.3.0 <5.0.0-0": [
+    "4.3.1",
+    {
+      "name": "deepmerge",
+      "dist": {
+        "tarball": "https://registry.npmjs.org/deepmerge/-/deepmerge-4.3.1.tgz"
+      },
+      "scripts": {
+        "build": "rollup -c",
+        "size": "npm run build && uglifyjs --compress --mangle -- ./dist/umd.js | gzip -c | wc -c",
+        "test": "npm run build && tape test/*.js && jsmd readme.md && npm run test:typescript",
+        "test:typescript": "tsc --noEmit test/typescript.ts && ts-node test/typescript.ts"
+      }
+    }
+  ],
+  "detect-indent!>=6.1.0 <7.0.0-0": [
+    "6.1.0",
+    {
+      "name": "detect-indent",
+      "dist": {
+        "tarball": "https://registry.npmjs.org/detect-indent/-/detect-indent-6.1.0.tgz"
+      },
+      "scripts": {
+        "test": "xo && ava && tsd"
+      }
+    }
+  ],
+  "devalue!>=4.3.0 <5.0.0-0": [
+    "4.3.0",
+    {
+      "name": "devalue",
+      "dist": {
+        "tarball": "https://registry.npmjs.org/devalue/-/devalue-4.3.0.tgz"
+      },
+      "scripts": {
+        "build": "tsc",
+        "prepublishOnly": "npm test && publint && npm run build",
+        "test": "uvu test"
+      }
+    }
+  ],
+  "es6-promise!>=3.1.2 <4.0.0-0": [
+    "3.3.1",
+    {
+      "name": "es6-promise",
+      "dist": {
+        "tarball": "https://registry.npmjs.org/es6-promise/-/es6-promise-3.3.1.tgz"
+      },
+      "scripts": {
+        "build": "ember build --environment production",
+        "build:production": "ember build --env production",
+        "dry-run-release": "ember build --environment production && release-it --dry-run --non-interactive",
+        "lint": "jshint lib",
+        "prepublish": "ember build --environment production",
+        "start": "ember s",
+        "test": "ember test",
+        "test:node": "ember build && mocha ./dist/test/browserify",
+        "test:server": "ember test --server"
+      }
+    }
+  ],
+  "esbuild!>=0.17.5 <0.18.0-0": [
+    "0.17.14",
+    {
+      "name": "esbuild",
+      "dist": {
+        "tarball": "https://registry.npmjs.org/esbuild/-/esbuild-0.17.14.tgz"
+      },
+      "dependencies": {
+        "@esbuild/android-arm": "0.17.14",
+        "@esbuild/android-arm64": "0.17.14",
+        "@esbuild/android-x64": "0.17.14",
+        "@esbuild/darwin-arm64": "0.17.14",
+        "@esbuild/darwin-x64": "0.17.14",
+        "@esbuild/freebsd-arm64": "0.17.14",
+        "@esbuild/freebsd-x64": "0.17.14",
+        "@esbuild/linux-arm": "0.17.14",
+        "@esbuild/linux-arm64": "0.17.14",
+        "@esbuild/linux-ia32": "0.17.14",
+        "@esbuild/linux-loong64": "0.17.14",
+        "@esbuild/linux-mips64el": "0.17.14",
+        "@esbuild/linux-ppc64": "0.17.14",
+        "@esbuild/linux-riscv64": "0.17.14",
+        "@esbuild/linux-s390x": "0.17.14",
+        "@esbuild/linux-x64": "0.17.14",
+        "@esbuild/netbsd-x64": "0.17.14",
+        "@esbuild/openbsd-x64": "0.17.14",
+        "@esbuild/sunos-x64": "0.17.14",
+        "@esbuild/win32-arm64": "0.17.14",
+        "@esbuild/win32-ia32": "0.17.14",
+        "@esbuild/win32-x64": "0.17.14"
+      },
+      "optionalDependencies": {
+        "@esbuild/android-arm": "0.17.14",
+        "@esbuild/android-arm64": "0.17.14",
+        "@esbuild/android-x64": "0.17.14",
+        "@esbuild/darwin-arm64": "0.17.14",
+        "@esbuild/darwin-x64": "0.17.14",
+        "@esbuild/freebsd-arm64": "0.17.14",
+        "@esbuild/freebsd-x64": "0.17.14",
+        "@esbuild/linux-arm": "0.17.14",
+        "@esbuild/linux-arm64": "0.17.14",
+        "@esbuild/linux-ia32": "0.17.14",
+        "@esbuild/linux-loong64": "0.17.14",
+        "@esbuild/linux-mips64el": "0.17.14",
+        "@esbuild/linux-ppc64": "0.17.14",
+        "@esbuild/linux-riscv64": "0.17.14",
+        "@esbuild/linux-s390x": "0.17.14",
+        "@esbuild/linux-x64": "0.17.14",
+        "@esbuild/netbsd-x64": "0.17.14",
+        "@esbuild/openbsd-x64": "0.17.14",
+        "@esbuild/sunos-x64": "0.17.14",
+        "@esbuild/win32-arm64": "0.17.14",
+        "@esbuild/win32-ia32": "0.17.14",
+        "@esbuild/win32-x64": "0.17.14"
+      },
+      "bin": {
+        "esbuild": "bin/esbuild"
+      },
+      "scripts": {
+        "postinstall": "node install.js"
+      }
+    }
+  ],
+  "esbuild-darwin-arm64!>=0.15.18 <0.16.0-0": [
+    "0.15.18",
+    {
+      "name": "esbuild-darwin-arm64",
+      "dist": {
+        "tarball": "https://registry.npmjs.org/esbuild-darwin-arm64/-/esbuild-darwin-arm64-0.15.18.tgz"
+      },
+      "os": [
+        "darwin"
+      ],
+      "cpu": [
+        "arm64"
+      ]
+    }
+  ],
+  "esm-env!>=1.0.0 <2.0.0-0": [
+    "1.0.0",
+    {
+      "name": "esm-env",
+      "dist": {
+        "tarball": "https://registry.npmjs.org/esm-env/-/esm-env-1.0.0.tgz"
+      }
+    }
+  ],
+  "fast-glob!>=3.2.7 <4.0.0-0": [
+    "3.2.12",
+    {
+      "name": "fast-glob",
+      "dist": {
+        "tarball": "https://registry.npmjs.org/fast-glob/-/fast-glob-3.2.12.tgz"
+      },
+      "dependencies": {
+        "@nodelib/fs.stat": ">=2.0.2 <3.0.0-0",
+        "@nodelib/fs.walk": ">=1.2.3 <2.0.0-0",
+        "glob-parent": ">=5.1.2 <6.0.0-0",
+        "merge2": ">=1.3.0 <2.0.0-0",
+        "micromatch": ">=4.0.4 <5.0.0-0"
+      },
+      "scripts": {
+        "bench": "npm run bench-async && npm run bench-stream && npm run bench-sync",
+        "bench-async": "npm run bench-async-flatten && npm run bench-async-deep && npm run bench-async-partial-flatten && npm run bench-async-partial-deep",
+        "bench-async-deep": "node ./out/benchmark --mode async --pattern \"**\"",
+        "bench-async-flatten": "node ./out/benchmark --mode async --pattern \"*\"",
+        "bench-async-partial-deep": "node ./out/benchmark --mode async --pattern \"{fixtures,out}/**\"",
+        "bench-async-partial-flatten": "node ./out/benchmark --mode async --pattern \"{fixtures,out}/{first,second}/*\"",
+        "bench-stream": "npm run bench-stream-flatten && npm run bench-stream-deep && npm run bench-stream-partial-flatten && npm run bench-stream-partial-deep",
+        "bench-stream-deep": "node ./out/benchmark --mode stream --pattern \"**\"",
+        "bench-stream-flatten": "node ./out/benchmark --mode stream --pattern \"*\"",
+        "bench-stream-partial-deep": "node ./out/benchmark --mode stream --pattern \"{fixtures,out}/**\"",
+        "bench-stream-partial-flatten": "node ./out/benchmark --mode stream --pattern \"{fixtures,out}/{first,second}/*\"",
+        "bench-sync": "npm run bench-sync-flatten && npm run bench-sync-deep && npm run bench-sync-partial-flatten && npm run bench-sync-partial-deep",
+        "bench-sync-deep": "node ./out/benchmark --mode sync --pattern \"**\"",
+        "bench-sync-flatten": "node ./out/benchmark --mode sync --pattern \"*\"",
+        "bench-sync-partial-deep": "node ./out/benchmark --mode sync --pattern \"{fixtures,out}/**\"",
+        "bench-sync-partial-flatten": "node ./out/benchmark --mode sync --pattern \"{fixtures,out}/{first,second}/*\"",
+        "build": "npm run clean && npm run compile && npm run lint && npm test",
+        "clean": "rimraf out",
+        "compile": "tsc",
+        "lint": "eslint \"src/**/*.ts\" --cache",
+        "smoke": "mocha \"out/**/*.smoke.js\" -s 0",
+        "smoke:async": "mocha \"out/**/*.smoke.js\" -s 0 --grep \"\\(async\\)\"",
+        "smoke:stream": "mocha \"out/**/*.smoke.js\" -s 0 --grep \"\\(stream\\)\"",
+        "smoke:sync": "mocha \"out/**/*.smoke.js\" -s 0 --grep \"\\(sync\\)\"",
+        "test": "mocha \"out/**/*.spec.js\" -s 0",
+        "watch": "npm run clean && npm run compile -- --sourceMap --watch"
+      }
+    }
+  ],
+  "fastq!>=1.6.0 <2.0.0-0": [
+    "1.15.0",
+    {
+      "name": "fastq",
+      "dist": {
+        "tarball": "https://registry.npmjs.org/fastq/-/fastq-1.15.0.tgz"
+      },
+      "dependencies": {
+        "reusify": ">=1.0.4 <2.0.0-0"
+      },
+      "scripts": {
+        "coverage": "nyc --reporter=html --reporter=cobertura --reporter=text tape test/test.js test/promise.js",
+        "legacy": "tape test/test.js",
+        "lint": "standard --verbose | snazzy",
+        "test": "npm run lint && npm run unit && npm run typescript",
+        "test:report": "npm run lint && npm run unit:report",
+        "typescript": "tsc --project ./test/tsconfig.json",
+        "unit": "nyc --lines 100 --branches 100 --functions 100 --check-coverage --reporter=text tape test/test.js test/promise.js"
+      }
+    }
+  ],
+  "fill-range!>=7.0.1 <8.0.0-0": [
+    "7.0.1",
+    {
+      "name": "fill-range",
+      "dist": {
+        "tarball": "https://registry.npmjs.org/fill-range/-/fill-range-7.0.1.tgz"
+      },
+      "dependencies": {
+        "to-regex-range": ">=5.0.1 <6.0.0-0"
+      },
+      "scripts": {
+        "test": "mocha"
+      }
+    }
+  ],
+  "fs.realpath!>=1.0.0 <2.0.0-0": [
+    "1.0.0",
+    {
+      "name": "fs.realpath",
+      "dist": {
+        "tarball": "https://registry.npmjs.org/fs.realpath/-/fs.realpath-1.0.0.tgz"
+      },
+      "scripts": {
+        "test": "tap test/*.js --cov"
+      }
+    }
+  ],
+  "fsevents!>=2.3.2 <2.4.0-0?": [
+    "2.3.2",
+    {
+      "name": "fsevents",
+      "dist": {
+        "tarball": "https://registry.npmjs.org/fsevents/-/fsevents-2.3.2.tgz"
+      },
+      "os": [
+        "darwin"
+      ],
+      "scripts": {
+        "build": "node-gyp clean && rm -f fsevents.node && node-gyp rebuild && node-gyp clean",
+        "clean": "node-gyp clean && rm -f fsevents.node",
+        "install": "node-gyp rebuild",
+        "prepublishOnly": "npm run build",
+        "test": "/bin/bash ./test.sh 2>/dev/null"
+      }
+    }
+  ],
+  "function-bind!>=1.1.1 <2.0.0-0": [
+    "1.1.1",
+    {
+      "name": "function-bind",
+      "dist": {
+        "tarball": "https://registry.npmjs.org/function-bind/-/function-bind-1.1.1.tgz"
+      },
+      "scripts": {
+        "coverage": "covert test/*.js",
+        "eslint": "eslint *.js */*.js",
+        "jscs": "jscs *.js */*.js",
+        "lint": "npm run jscs && npm run eslint",
+        "posttest": "npm run coverage -- --quiet",
+        "pretest": "npm run lint",
+        "test": "npm run tests-only",
+        "tests-only": "node test"
+      }
+    }
+  ],
+  "glob!>=7.1.3 <8.0.0-0": [
+    "7.2.3",
+    {
+      "name": "glob",
+      "dist": {
+        "tarball": "https://registry.npmjs.org/glob/-/glob-7.2.3.tgz"
+      },
+      "dependencies": {
+        "fs.realpath": ">=1.0.0 <2.0.0-0",
+        "inflight": ">=1.0.4 <2.0.0-0",
+        "inherits": ">=2.0.0 <3.0.0-0",
+        "minimatch": ">=3.1.1 <4.0.0-0",
+        "once": ">=1.3.0 <2.0.0-0",
+        "path-is-absolute": ">=1.0.0 <2.0.0-0"
+      },
+      "scripts": {
+        "bench": "bash benchmark.sh",
+        "benchclean": "node benchclean.js",
+        "prepublish": "npm run benchclean",
+        "prof": "bash prof.sh && cat profile.txt",
+        "profclean": "rm -f v8.log profile.txt",
+        "test": "tap",
+        "test-regen": "npm run profclean && TEST_REGEN=1 node test/00-setup.js"
+      }
+    }
+  ],
+  "glob-parent!>=5.1.2 <5.2.0-0": [
+    "5.1.2",
+    {
+      "name": "glob-parent",
+      "dist": {
+        "tarball": "https://registry.npmjs.org/glob-parent/-/glob-parent-5.1.2.tgz"
+      },
+      "dependencies": {
+        "is-glob": ">=4.0.1 <5.0.0-0"
+      },
+      "scripts": {
+        "azure-pipelines": "nyc mocha --async-only --reporter xunit -O output=test.xunit",
+        "coveralls": "nyc report --reporter=text-lcov | coveralls",
+        "lint": "eslint .",
+        "pretest": "npm run lint",
+        "test": "nyc mocha --async-only"
+      }
+    }
+  ],
+  "glob-parent!>=5.1.2 <6.0.0-0": [
+    "5.1.2",
+    {
+      "name": "glob-parent",
+      "dist": {
+        "tarball": "https://registry.npmjs.org/glob-parent/-/glob-parent-5.1.2.tgz"
+      },
+      "dependencies": {
+        "is-glob": ">=4.0.1 <5.0.0-0"
+      },
+      "scripts": {
+        "azure-pipelines": "nyc mocha --async-only --reporter xunit -O output=test.xunit",
+        "coveralls": "nyc report --reporter=text-lcov | coveralls",
+        "lint": "eslint .",
+        "pretest": "npm run lint",
+        "test": "nyc mocha --async-only"
+      }
+    }
+  ],
+  "globalyzer!0.1.0": [
+    "0.1.0",
+    {
+      "name": "globalyzer",
+      "dist": {
+        "tarball": "https://registry.npmjs.org/globalyzer/-/globalyzer-0.1.0.tgz"
+      },
+      "scripts": {
+        "test": "tape test/*.js | tap-spec"
+      }
+    }
+  ],
+  "globrex!>=0.1.2 <0.2.0-0": [
+    "0.1.2",
+    {
+      "name": "globrex",
+      "dist": {
+        "tarball": "https://registry.npmjs.org/globrex/-/globrex-0.1.2.tgz"
+      },
+      "scripts": {
+        "test": "tape test/*.js | tap-spec"
+      }
+    }
+  ],
+  "graceful-fs!>=4.1.3 <5.0.0-0": [
+    "4.2.11",
+    {
+      "name": "graceful-fs",
+      "dist": {
+        "tarball": "https://registry.npmjs.org/graceful-fs/-/graceful-fs-4.2.11.tgz"
+      },
+      "scripts": {
+        "postpublish": "git push origin --follow-tags",
+        "posttest": "nyc report",
+        "postversion": "npm publish",
+        "preversion": "npm test",
+        "test": "nyc --silent node test.js | tap -c -"
+      }
+    }
+  ],
+  "has!>=1.0.3 <2.0.0-0": [
+    "1.0.3",
+    {
+      "name": "has",
+      "dist": {
+        "tarball": "https://registry.npmjs.org/has/-/has-1.0.3.tgz"
+      },
+      "dependencies": {
+        "function-bind": ">=1.1.1 <2.0.0-0"
+      },
+      "scripts": {
+        "lint": "eslint .",
+        "pretest": "npm run lint",
+        "test": "tape test"
+      }
+    }
+  ],
+  "immutable!>=4.0.0 <5.0.0-0": [
+    "4.3.0",
+    {
+      "name": "immutable",
+      "dist": {
+        "tarball": "https://registry.npmjs.org/immutable/-/immutable-4.3.0.tgz"
+      }
+    }
+  ],
+  "import-fresh!>=3.2.1 <4.0.0-0": [
+    "3.3.0",
+    {
+      "name": "import-fresh",
+      "dist": {
+        "tarball": "https://registry.npmjs.org/import-fresh/-/import-fresh-3.3.0.tgz"
+      },
+      "dependencies": {
+        "parent-module": ">=1.0.0 <2.0.0-0",
+        "resolve-from": ">=4.0.0 <5.0.0-0"
+      },
+      "scripts": {
+        "heapdump": "node heapdump.js",
+        "test": "xo && ava && tsd"
+      }
+    }
+  ],
+  "import-meta-resolve!>=2.2.0 <3.0.0-0": [
+    "2.2.2",
+    {
+      "name": "import-meta-resolve",
+      "dist": {
+        "tarball": "https://registry.npmjs.org/import-meta-resolve/-/import-meta-resolve-2.2.2.tgz"
+      },
+      "scripts": {
+        "build": "tsc --build --clean && tsc --build && type-coverage",
+        "format": "remark . -qfo && prettier . -w --loglevel warn && xo --fix",
+        "generate": "node --conditions development script.js",
+        "prepack": "npm run generate && npm run build && npm run format",
+        "test": "npm run generate && npm run build && npm run format && npm run test-coverage",
+        "test-api": "node --experimental-import-meta-resolve test/baseline.js && node test/index.js",
+        "test-coverage": "c8 --check-coverage --branches 75 --functions 75 --lines 75 --statements 75 --reporter lcov npm run test-api"
+      }
+    }
+  ],
+  "inflight!>=1.0.4 <2.0.0-0": [
+    "1.0.6",
+    {
+      "name": "inflight",
+      "dist": {
+        "tarball": "https://registry.npmjs.org/inflight/-/inflight-1.0.6.tgz"
+      },
+      "dependencies": {
+        "once": ">=1.3.0 <2.0.0-0",
+        "wrappy": ">=1.0.0 <2.0.0-0"
+      },
+      "scripts": {
+        "test": "tap test.js --100"
+      }
+    }
+  ],
+  "inherits!>=2.0.0 <3.0.0-0": [
+    "2.0.4",
+    {
+      "name": "inherits",
+      "dist": {
+        "tarball": "https://registry.npmjs.org/inherits/-/inherits-2.0.4.tgz"
+      },
+      "scripts": {
+        "test": "tap"
+      }
+    }
+  ],
+  "is-binary-path!>=2.1.0 <2.2.0-0": [
+    "2.1.0",
+    {
+      "name": "is-binary-path",
+      "dist": {
+        "tarball": "https://registry.npmjs.org/is-binary-path/-/is-binary-path-2.1.0.tgz"
+      },
+      "dependencies": {
+        "binary-extensions": ">=2.0.0 <3.0.0-0"
+      },
+      "scripts": {
+        "test": "xo && ava && tsd"
+      }
+    }
+  ],
+  "is-core-module!>=2.9.0 <3.0.0-0": [
+    "2.11.0",
+    {
+      "name": "is-core-module",
+      "dist": {
+        "tarball": "https://registry.npmjs.org/is-core-module/-/is-core-module-2.11.0.tgz"
+      },
+      "dependencies": {
+        "has": ">=1.0.3 <2.0.0-0"
+      },
+      "scripts": {
+        "lint": "eslint .",
+        "posttest": "aud --production",
+        "postversion": "auto-changelog && git add CHANGELOG.md && git commit --no-edit --amend && git tag -f \"v$(node -e \"console.log(require('./package.json').version)\")\"",
+        "prepack": "npmignore --auto --commentLines=autogenerated",
+        "prepublish": "not-in-publish || npm run prepublishOnly",
+        "prepublishOnly": "safe-publish-latest",
+        "pretest": "npm run lint",
+        "test": "npm run tests-only",
+        "tests-only": "nyc tape 'test/**/*.js'",
+        "version": "auto-changelog && git add CHANGELOG.md"
+      }
+    }
+  ],
+  "is-extglob!>=2.1.1 <3.0.0-0": [
+    "2.1.1",
+    {
+      "name": "is-extglob",
+      "dist": {
+        "tarball": "https://registry.npmjs.org/is-extglob/-/is-extglob-2.1.1.tgz"
+      },
+      "scripts": {
+        "test": "mocha"
+      }
+    }
+  ],
+  "is-glob!>=4.0.1 <4.1.0-0": [
+    "4.0.3",
+    {
+      "name": "is-glob",
+      "dist": {
+        "tarball": "https://registry.npmjs.org/is-glob/-/is-glob-4.0.3.tgz"
+      },
+      "dependencies": {
+        "is-extglob": ">=2.1.1 <3.0.0-0"
+      },
+      "scripts": {
+        "test": "mocha && node benchmark.js"
+      }
+    }
+  ],
+  "is-glob!>=4.0.1 <5.0.0-0": [
+    "4.0.3",
+    {
+      "name": "is-glob",
+      "dist": {
+        "tarball": "https://registry.npmjs.org/is-glob/-/is-glob-4.0.3.tgz"
+      },
+      "dependencies": {
+        "is-extglob": ">=2.1.1 <3.0.0-0"
+      },
+      "scripts": {
+        "test": "mocha && node benchmark.js"
+      }
+    }
+  ],
+  "is-number!>=7.0.0 <8.0.0-0": [
+    "7.0.0",
+    {
+      "name": "is-number",
+      "dist": {
+        "tarball": "https://registry.npmjs.org/is-number/-/is-number-7.0.0.tgz"
+      },
+      "scripts": {
+        "test": "mocha"
+      }
+    }
+  ],
+  "kleur!>=4.1.5 <5.0.0-0": [
+    "4.1.5",
+    {
+      "name": "kleur",
+      "dist": {
+        "tarball": "https://registry.npmjs.org/kleur/-/kleur-4.1.5.tgz"
+      },
+      "scripts": {
+        "build": "node build",
+        "test": "uvu -r esm -i utils -i xyz"
+      }
+    }
+  ],
+  "magic-string!>=0.27.0 <0.28.0-0": [
+    "0.27.0",
+    {
+      "name": "magic-string",
+      "dist": {
+        "tarball": "https://registry.npmjs.org/magic-string/-/magic-string-0.27.0.tgz"
+      },
+      "dependencies": {
+        "@jridgewell/sourcemap-codec": ">=1.4.13 <2.0.0-0"
+      },
+      "scripts": {
+        "bench": "npm run build && node benchmark/index.mjs",
+        "build": "rollup -c",
+        "changelog": "conventional-changelog -p angular -i CHANGELOG.md -s",
+        "format": "prettier --single-quote --print-width 100 --use-tabs --write src/*.js src/**/*.js",
+        "lint": "eslint src test",
+        "prepare": "npm run build",
+        "prepublishOnly": "rm -rf dist && npm test",
+        "pretest": "npm run lint && npm run build",
+        "release": "bumpp -x \"npm run changelog\" --all --commit --tag --push && npm publish",
+        "test": "mocha",
+        "watch": "rollup -cw"
+      }
+    }
+  ],
+  "magic-string!>=0.29.0 <0.30.0-0": [
+    "0.29.0",
+    {
+      "name": "magic-string",
+      "dist": {
+        "tarball": "https://registry.npmjs.org/magic-string/-/magic-string-0.29.0.tgz"
+      },
+      "dependencies": {
+        "@jridgewell/sourcemap-codec": ">=1.4.13 <2.0.0-0"
+      },
+      "scripts": {
+        "bench": "npm run build && node benchmark/index.mjs",
+        "build": "rollup -c",
+        "changelog": "conventional-changelog -p angular -i CHANGELOG.md -s",
+        "format": "prettier --single-quote --print-width 100 --use-tabs --write src/*.js src/**/*.js",
+        "lint": "eslint src test && publint",
+        "prepare": "npm run build",
+        "prepublishOnly": "npm run lint && rm -rf dist && npm test",
+        "pretest": "npm run build",
+        "release": "bumpp -x \"npm run changelog\" --all --commit --tag --push && npm publish",
+        "test": "mocha",
+        "watch": "rollup -cw"
+      }
+    }
+  ],
+  "magic-string!>=0.30.0 <0.31.0-0": [
+    "0.30.0",
+    {
+      "name": "magic-string",
+      "dist": {
+        "tarball": "https://registry.npmjs.org/magic-string/-/magic-string-0.30.0.tgz"
+      },
+      "dependencies": {
+        "@jridgewell/sourcemap-codec": ">=1.4.13 <2.0.0-0"
+      },
+      "scripts": {
+        "bench": "npm run build && node benchmark/index.mjs",
+        "build": "rollup -c",
+        "changelog": "conventional-changelog -p angular -i CHANGELOG.md -s",
+        "format": "prettier --single-quote --print-width 100 --use-tabs --write src/*.js src/**/*.js",
+        "lint": "eslint src test && publint",
+        "prepare": "npm run build",
+        "prepublishOnly": "npm run lint && rm -rf dist && npm test",
+        "pretest": "npm run build",
+        "release": "bumpp -x \"npm run changelog\" --all --commit --tag --push && npm publish",
+        "test": "mocha",
+        "watch": "rollup -cw"
+      }
+    }
+  ],
+  "merge2!>=1.3.0 <2.0.0-0": [
+    "1.4.1",
+    {
+      "name": "merge2",
+      "dist": {
+        "tarball": "https://registry.npmjs.org/merge2/-/merge2-1.4.1.tgz"
+      },
+      "scripts": {
+        "test": "standard && tman"
+      }
+    }
+  ],
+  "micromatch!>=4.0.4 <5.0.0-0": [
+    "4.0.5",
+    {
+      "name": "micromatch",
+      "dist": {
+        "tarball": "https://registry.npmjs.org/micromatch/-/micromatch-4.0.5.tgz"
+      },
+      "dependencies": {
+        "braces": ">=3.0.2 <4.0.0-0",
+        "picomatch": ">=2.3.1 <3.0.0-0"
+      },
+      "scripts": {
+        "test": "mocha"
+      }
+    }
+  ],
+  "mime!>=3.0.0 <4.0.0-0": [
+    "3.0.0",
+    {
+      "name": "mime",
+      "dist": {
+        "tarball": "https://registry.npmjs.org/mime/-/mime-3.0.0.tgz"
+      },
+      "bin": {
+        "mime": "cli.js"
+      },
+      "scripts": {
+        "benchmark": "node src/benchmark.js",
+        "md": "runmd --watch --output README.md src/README_js.md",
+        "prepare": "node src/build.js && runmd --output README.md src/README_js.md",
+        "release": "standard-version",
+        "test": "mocha src/test.js"
+      }
+    }
+  ],
+  "min-indent!>=1.0.0 <2.0.0-0": [
+    "1.0.1",
+    {
+      "name": "min-indent",
+      "dist": {
+        "tarball": "https://registry.npmjs.org/min-indent/-/min-indent-1.0.1.tgz"
+      },
+      "scripts": {
+        "test": "xo && ava"
+      }
+    }
+  ],
+  "minimatch!>=3.1.1 <4.0.0-0": [
+    "3.1.2",
+    {
+      "name": "minimatch",
+      "dist": {
+        "tarball": "https://registry.npmjs.org/minimatch/-/minimatch-3.1.2.tgz"
+      },
+      "dependencies": {
+        "brace-expansion": ">=1.1.7 <2.0.0-0"
+      },
+      "scripts": {
+        "postpublish": "git push origin --all; git push origin --tags",
+        "postversion": "npm publish",
+        "preversion": "npm test",
+        "test": "tap"
+      }
+    }
+  ],
+  "minimist!>=1.2.0 <2.0.0-0": [
+    "1.2.8",
+    {
+      "name": "minimist",
+      "dist": {
+        "tarball": "https://registry.npmjs.org/minimist/-/minimist-1.2.8.tgz"
+      },
+      "scripts": {
+        "lint": "eslint --ext=js,mjs .",
+        "posttest": "aud --production",
+        "postversion": "auto-changelog && git add CHANGELOG.md && git commit --no-edit --amend && git tag -f \"v$(node -e \"console.log(require('./package.json').version)\")\"",
+        "prepack": "npmignore --auto --commentLines=auto",
+        "prepublish": "not-in-publish || npm run prepublishOnly",
+        "prepublishOnly": "safe-publish-latest",
+        "pretest": "npm run lint",
+        "test": "npm run tests-only",
+        "tests-only": "nyc tape 'test/**/*.js'",
+        "version": "auto-changelog && git add CHANGELOG.md"
+      }
+    }
+  ],
+  "minimist!>=1.2.6 <2.0.0-0": [
+    "1.2.8",
+    {
+      "name": "minimist",
+      "dist": {
+        "tarball": "https://registry.npmjs.org/minimist/-/minimist-1.2.8.tgz"
+      },
+      "scripts": {
+        "lint": "eslint --ext=js,mjs .",
+        "posttest": "aud --production",
+        "postversion": "auto-changelog && git add CHANGELOG.md && git commit --no-edit --amend && git tag -f \"v$(node -e \"console.log(require('./package.json').version)\")\"",
+        "prepack": "npmignore --auto --commentLines=auto",
+        "prepublish": "not-in-publish || npm run prepublishOnly",
+        "prepublishOnly": "safe-publish-latest",
+        "pretest": "npm run lint",
+        "test": "npm run tests-only",
+        "tests-only": "nyc tape 'test/**/*.js'",
+        "version": "auto-changelog && git add CHANGELOG.md"
+      }
+    }
+  ],
+  "mkdirp!>=0.5.1 <0.6.0-0": [
+    "0.5.6",
+    {
+      "name": "mkdirp",
+      "dist": {
+        "tarball": "https://registry.npmjs.org/mkdirp/-/mkdirp-0.5.6.tgz"
+      },
+      "dependencies": {
+        "minimist": ">=1.2.6 <2.0.0-0"
+      },
+      "bin": {
+        "mkdirp": "bin/cmd.js"
+      },
+      "scripts": {
+        "test": "tap test/*.js"
+      }
+    }
+  ],
+  "mri!>=1.1.0 <2.0.0-0": [
+    "1.2.0",
+    {
+      "name": "mri",
+      "dist": {
+        "tarball": "https://registry.npmjs.org/mri/-/mri-1.2.0.tgz"
+      },
+      "scripts": {
+        "bench": "node bench",
+        "build": "bundt",
+        "pretest": "npm run build",
+        "test": "tape test/*.js | tap-spec"
+      }
+    }
+  ],
+  "mrmime!>=1.0.0 <2.0.0-0": [
+    "1.0.1",
+    {
+      "name": "mrmime",
+      "dist": {
+        "tarball": "https://registry.npmjs.org/mrmime/-/mrmime-1.0.1.tgz"
+      },
+      "scripts": {
+        "build": "node bin && bundt",
+        "test": "uvu -r esm test"
+      }
+    }
+  ],
+  "ms!2.1.2": [
+    "2.1.2",
+    {
+      "name": "ms",
+      "dist": {
+        "tarball": "https://registry.npmjs.org/ms/-/ms-2.1.2.tgz"
+      },
+      "scripts": {
+        "lint": "eslint lib/* bin/*",
+        "precommit": "lint-staged",
+        "test": "mocha tests.js"
+      }
+    }
+  ],
+  "nanoid!>=3.3.4 <4.0.0-0": [
+    "3.3.6",
+    {
+      "name": "nanoid",
+      "dist": {
+        "tarball": "https://registry.npmjs.org/nanoid/-/nanoid-3.3.6.tgz"
+      },
+      "bin": {
+        "nanoid": "bin/nanoid.cjs"
+      }
+    }
+  ],
+  "normalize-path!>=3.0.0 <3.1.0-0": [
+    "3.0.0",
+    {
+      "name": "normalize-path",
+      "dist": {
+        "tarball": "https://registry.npmjs.org/normalize-path/-/normalize-path-3.0.0.tgz"
+      },
+      "scripts": {
+        "test": "mocha"
+      }
+    }
+  ],
+  "normalize-path!>=3.0.0 <4.0.0-0": [
+    "3.0.0",
+    {
+      "name": "normalize-path",
+      "dist": {
+        "tarball": "https://registry.npmjs.org/normalize-path/-/normalize-path-3.0.0.tgz"
+      },
+      "scripts": {
+        "test": "mocha"
+      }
+    }
+  ],
+  "once!>=1.3.0 <2.0.0-0": [
+    "1.4.0",
+    {
+      "name": "once",
+      "dist": {
+        "tarball": "https://registry.npmjs.org/once/-/once-1.4.0.tgz"
+      },
+      "dependencies": {
+        "wrappy": ">=1.0.0 <2.0.0-0"
+      },
+      "scripts": {
+        "test": "tap test/*.js"
+      }
+    }
+  ],
+  "parent-module!>=1.0.0 <2.0.0-0": [
+    "1.0.1",
+    {
+      "name": "parent-module",
+      "dist": {
+        "tarball": "https://registry.npmjs.org/parent-module/-/parent-module-1.0.1.tgz"
+      },
+      "dependencies": {
+        "callsites": ">=3.0.0 <4.0.0-0"
+      },
+      "scripts": {
+        "test": "xo && ava"
+      }
+    }
+  ],
+  "path-is-absolute!>=1.0.0 <2.0.0-0": [
+    "1.0.1",
+    {
+      "name": "path-is-absolute",
+      "dist": {
+        "tarball": "https://registry.npmjs.org/path-is-absolute/-/path-is-absolute-1.0.1.tgz"
+      },
+      "scripts": {
+        "test": "xo && node test.js"
+      }
+    }
+  ],
+  "path-parse!>=1.0.7 <2.0.0-0": [
+    "1.0.7",
+    {
+      "name": "path-parse",
+      "dist": {
+        "tarball": "https://registry.npmjs.org/path-parse/-/path-parse-1.0.7.tgz"
+      },
+      "scripts": {
+        "test": "node test.js"
+      }
+    }
+  ],
+  "picocolors!>=1.0.0 <2.0.0-0": [
+    "1.0.0",
+    {
+      "name": "picocolors",
+      "dist": {
+        "tarball": "https://registry.npmjs.org/picocolors/-/picocolors-1.0.0.tgz"
+      }
+    }
+  ],
+  "picomatch!>=2.0.4 <3.0.0-0": [
+    "2.3.1",
+    {
+      "name": "picomatch",
+      "dist": {
+        "tarball": "https://registry.npmjs.org/picomatch/-/picomatch-2.3.1.tgz"
+      },
+      "scripts": {
+        "lint": "eslint --cache --cache-location node_modules/.cache/.eslintcache --report-unused-disable-directives --ignore-path .gitignore .",
+        "mocha": "mocha --reporter dot",
+        "test": "npm run lint && npm run mocha",
+        "test:ci": "npm run test:cover",
+        "test:cover": "nyc npm run mocha"
+      }
+    }
+  ],
+  "picomatch!>=2.2.1 <3.0.0-0": [
+    "2.3.1",
+    {
+      "name": "picomatch",
+      "dist": {
+        "tarball": "https://registry.npmjs.org/picomatch/-/picomatch-2.3.1.tgz"
+      },
+      "scripts": {
+        "lint": "eslint --cache --cache-location node_modules/.cache/.eslintcache --report-unused-disable-directives --ignore-path .gitignore .",
+        "mocha": "mocha --reporter dot",
+        "test": "npm run lint && npm run mocha",
+        "test:ci": "npm run test:cover",
+        "test:cover": "nyc npm run mocha"
+      }
+    }
+  ],
+  "picomatch!>=2.3.1 <3.0.0-0": [
+    "2.3.1",
+    {
+      "name": "picomatch",
+      "dist": {
+        "tarball": "https://registry.npmjs.org/picomatch/-/picomatch-2.3.1.tgz"
+      },
+      "scripts": {
+        "lint": "eslint --cache --cache-location node_modules/.cache/.eslintcache --report-unused-disable-directives --ignore-path .gitignore .",
+        "mocha": "mocha --reporter dot",
+        "test": "npm run lint && npm run mocha",
+        "test:ci": "npm run test:cover",
+        "test:cover": "nyc npm run mocha"
+      }
+    }
+  ],
+  "postcss!>=8.4.21 <9.0.0-0": [
+    "8.4.21",
+    {
+      "name": "postcss",
+      "dist": {
+        "tarball": "https://registry.npmjs.org/postcss/-/postcss-8.4.21.tgz"
+      },
+      "dependencies": {
+        "nanoid": ">=3.3.4 <4.0.0-0",
+        "picocolors": ">=1.0.0 <2.0.0-0",
+        "source-map-js": ">=1.0.2 <2.0.0-0"
+      }
+    }
+  ],
+  "queue-microtask!>=1.2.2 <2.0.0-0": [
+    "1.2.3",
+    {
+      "name": "queue-microtask",
+      "dist": {
+        "tarball": "https://registry.npmjs.org/queue-microtask/-/queue-microtask-1.2.3.tgz"
+      },
+      "scripts": {
+        "test": "standard && tape test/*.js"
+      }
+    }
+  ],
+  "readdirp!>=3.6.0 <3.7.0-0": [
+    "3.6.0",
+    {
+      "name": "readdirp",
+      "dist": {
+        "tarball": "https://registry.npmjs.org/readdirp/-/readdirp-3.6.0.tgz"
+      },
+      "dependencies": {
+        "picomatch": ">=2.2.1 <3.0.0-0"
+      },
+      "scripts": {
+        "dtslint": "dtslint",
+        "lint": "eslint --report-unused-disable-directives --ignore-path .gitignore .",
+        "mocha": "mocha --exit",
+        "nyc": "nyc",
+        "test": "npm run lint && nyc npm run mocha"
+      }
+    }
+  ],
+  "resolve!>=1.22.1 <2.0.0-0": [
+    "1.22.1",
+    {
+      "name": "resolve",
+      "dist": {
+        "tarball": "https://registry.npmjs.org/resolve/-/resolve-1.22.1.tgz"
+      },
+      "dependencies": {
+        "is-core-module": ">=2.9.0 <3.0.0-0",
+        "path-parse": ">=1.0.7 <2.0.0-0",
+        "supports-preserve-symlinks-flag": ">=1.0.0 <2.0.0-0"
+      },
+      "bin": {
+        "resolve": "bin/resolve"
+      },
+      "scripts": {
+        "lint": "eslint --ext=js,mjs --no-eslintrc -c .eslintrc . 'bin/**'",
+        "posttest": "npm run test:multirepo && aud --production",
+        "prelint": "eclint check $(git ls-files | xargs find 2> /dev/null | grep -vE 'node_modules|\\.git')",
+        "prepack": "npmignore --auto --commentLines=autogenerated",
+        "prepublish": "not-in-publish || npm run prepublishOnly",
+        "prepublishOnly": "safe-publish-latest && cp node_modules/is-core-module/core.json ./lib/ ||:",
+        "pretest": "npm run lint",
+        "pretests-only": "cd ./test/resolver/nested_symlinks && node mylib/sync && node mylib/async",
+        "test": "npm run --silent tests-only",
+        "test:multirepo": "cd ./test/resolver/multirepo && npm install && npm test",
+        "tests-only": "tape test/*.js"
+      }
+    }
+  ],
+  "resolve-from!>=4.0.0 <5.0.0-0": [
+    "4.0.0",
+    {
+      "name": "resolve-from",
+      "dist": {
+        "tarball": "https://registry.npmjs.org/resolve-from/-/resolve-from-4.0.0.tgz"
+      },
+      "scripts": {
+        "test": "xo && ava"
+      }
+    }
+  ],
+  "reusify!>=1.0.4 <2.0.0-0": [
+    "1.0.4",
+    {
+      "name": "reusify",
+      "dist": {
+        "tarball": "https://registry.npmjs.org/reusify/-/reusify-1.0.4.tgz"
+      },
+      "scripts": {
+        "coverage": "npm run istanbul; cat coverage/lcov.info | coveralls",
+        "istanbul": "istanbul cover tape test.js",
+        "lint": "standard",
+        "test": "tape test.js | faucet"
+      }
+    }
+  ],
+  "rimraf!>=2.5.2 <3.0.0-0": [
+    "2.7.1",
+    {
+      "name": "rimraf",
+      "dist": {
+        "tarball": "https://registry.npmjs.org/rimraf/-/rimraf-2.7.1.tgz"
+      },
+      "dependencies": {
+        "glob": ">=7.1.3 <8.0.0-0"
+      },
+      "bin": {
+        "rimraf": "./bin.js"
+      },
+      "scripts": {
+        "postpublish": "git push origin --all; git push origin --tags",
+        "postversion": "npm publish",
+        "preversion": "npm test",
+        "test": "tap test/*.js"
+      }
+    }
+  ],
+  "rollup!>=3.18.0 <4.0.0-0": [
+    "3.20.2",
+    {
+      "name": "rollup",
+      "dist": {
+        "tarball": "https://registry.npmjs.org/rollup/-/rollup-3.20.2.tgz"
+      },
+      "dependencies": {
+        "fsevents": ">=2.3.2 <2.4.0-0"
+      },
+      "optionalDependencies": {
+        "fsevents": ">=2.3.2 <2.4.0-0"
+      },
+      "bin": {
+        "rollup": "dist/bin/rollup"
+      },
+      "scripts": {
+        "build": "rollup --config rollup.config.ts --configPlugin typescript",
+        "build:bootstrap": "node dist/bin/rollup --config rollup.config.ts --configPlugin typescript",
+        "build:cjs": "rollup --config rollup.config.ts --configPlugin typescript --configTest",
+        "build:docs": "vitepress build docs",
+        "ci:coverage": "npm run build:cjs && npm run build:bootstrap && nyc --reporter lcovonly mocha",
+        "ci:lint": "concurrently 'npm:lint:js:nofix' 'npm:lint:markdown:nofix'",
+        "ci:test": "npm run build:cjs && npm run build:bootstrap && npm run test:all",
+        "ci:test:only": "npm run build:cjs && npm run build:bootstrap && npm run test:only",
+        "dev": "vitepress dev docs",
+        "lint": "concurrently -c red,green 'npm:lint:js' 'npm:lint:markdown'",
+        "lint:js": "eslint . --fix --cache",
+        "lint:js:nofix": "eslint . --cache",
+        "lint:markdown": "prettier --write \"**/*.md\"",
+        "lint:markdown:nofix": "prettier --check \"**/*.md\"",
+        "perf": "npm run build:cjs && node --expose-gc scripts/perf.js",
+        "perf:init": "node scripts/perf-init.js",
+        "prepare": "husky install && node scripts/check-release.js || npm run build",
+        "prepublishOnly": "node scripts/check-release.js",
+        "preview:docs": "vitepress preview docs",
+        "release": "node scripts/release.js",
+        "release:docs": "git fetch --update-head-ok origin master:master && git branch --force documentation-published master && git push origin documentation-published",
+        "test": "npm run build && npm run test:all",
+        "test:all": "concurrently --kill-others-on-fail -c green,blue,magenta,cyan,red 'npm:test:only' 'npm:test:browser' 'npm:test:typescript' 'npm:test:leak' 'npm:test:package' 'npm:test:options'",
+        "test:browser": "mocha test/browser/index.js",
+        "test:cjs": "npm run build:cjs && npm run test:only",
+        "test:coverage": "npm run build:cjs && shx rm -rf coverage/* && nyc --reporter html mocha test/test.js",
+        "test:coverage:browser": "npm run build && shx rm -rf coverage/* && nyc mocha test/browser/index.js",
+        "test:leak": "node --expose-gc test/leak/index.js",
+        "test:only": "mocha test/test.js",
+        "test:options": "node scripts/test-options.js",
+        "test:package": "node scripts/test-package.js",
+        "test:quick": "mocha -b test/test.js",
+        "test:typescript": "shx rm -rf test/typescript/dist && shx cp -r dist test/typescript/ && tsc --noEmit -p test/typescript && tsc --noEmit",
+        "test:update-snapshots": "node scripts/update-snapshots.js",
+        "watch": "rollup --config rollup.config.ts --configPlugin typescript --watch"
+      }
+    }
+  ],
+  "run-parallel!>=1.1.9 <2.0.0-0": [
+    "1.2.0",
+    {
+      "name": "run-parallel",
+      "dist": {
+        "tarball": "https://registry.npmjs.org/run-parallel/-/run-parallel-1.2.0.tgz"
+      },
+      "dependencies": {
+        "queue-microtask": ">=1.2.2 <2.0.0-0"
+      },
+      "scripts": {
+        "test": "standard && npm run test-node && npm run test-browser",
+        "test-browser": "airtap -- test/*.js",
+        "test-browser-local": "airtap --local -- test/*.js",
+        "test-node": "tape test/*.js"
+      }
+    }
+  ],
+  "sade!>=1.7.4 <2.0.0-0": [
+    "1.8.1",
+    {
+      "name": "sade",
+      "dist": {
+        "tarball": "https://registry.npmjs.org/sade/-/sade-1.8.1.tgz"
+      },
+      "dependencies": {
+        "mri": ">=1.1.0 <2.0.0-0"
+      },
+      "scripts": {
+        "build": "rollup -c",
+        "test": "tape -r esm test/*.js | tap-spec"
+      }
+    }
+  ],
+  "sade!>=1.8.1 <2.0.0-0": [
+    "1.8.1",
+    {
+      "name": "sade",
+      "dist": {
+        "tarball": "https://registry.npmjs.org/sade/-/sade-1.8.1.tgz"
+      },
+      "dependencies": {
+        "mri": ">=1.1.0 <2.0.0-0"
+      },
+      "scripts": {
+        "build": "rollup -c",
+        "test": "tape -r esm test/*.js | tap-spec"
+      }
+    }
+  ],
+  "sander!>=0.5.0 <0.6.0-0": [
+    "0.5.1",
+    {
+      "name": "sander",
+      "dist": {
+        "tarball": "https://registry.npmjs.org/sander/-/sander-0.5.1.tgz"
+      },
+      "dependencies": {
+        "es6-promise": ">=3.1.2 <4.0.0-0",
+        "graceful-fs": ">=4.1.3 <5.0.0-0",
+        "mkdirp": ">=0.5.1 <0.6.0-0",
+        "rimraf": ">=2.5.2 <3.0.0-0"
+      },
+      "scripts": {
+        "build": "npm run build:cjs && npm run build:es",
+        "build:cjs": "rollup -c -f cjs -o dist/sander.cjs.js",
+        "build:es": "rollup -c -f es6 -o dist/sander.es.js",
+        "prepublish": "npm test && npm run build:es",
+        "pretest": "npm run build:cjs",
+        "test": "mocha"
+      }
+    }
+  ],
+  "sass!>=1.58.3 <2.0.0-0": [
+    "1.60.0",
+    {
+      "name": "sass",
+      "dist": {
+        "tarball": "https://registry.npmjs.org/sass/-/sass-1.60.0.tgz"
+      },
+      "dependencies": {
+        "chokidar": ">=3.0.0 <4.0.0",
+        "immutable": ">=4.0.0 <5.0.0-0",
+        "source-map-js": ">=0.6.2 <2.0.0"
+      },
+      "bin": {
+        "sass": "sass.js"
+      }
+    }
+  ],
+  "set-cookie-parser!>=2.5.1 <3.0.0-0": [
+    "2.6.0",
+    {
+      "name": "set-cookie-parser",
+      "dist": {
+        "tarball": "https://registry.npmjs.org/set-cookie-parser/-/set-cookie-parser-2.6.0.tgz"
+      },
+      "scripts": {
+        "autofix": "npm run lint -- --fix",
+        "lint": "eslint . --ignore-pattern '!.eslintrc.js'",
+        "precommit": "npm test",
+        "test": "npm run lint && mocha"
+      }
+    }
+  ],
+  "sirv!>=2.0.2 <3.0.0-0": [
+    "2.0.2",
+    {
+      "name": "sirv",
+      "dist": {
+        "tarball": "https://registry.npmjs.org/sirv/-/sirv-2.0.2.tgz"
+      },
+      "dependencies": {
+        "@polka/url": ">=1.0.0-next.20 <2.0.0-0",
+        "mrmime": ">=1.0.0 <2.0.0-0",
+        "totalist": ">=3.0.0 <4.0.0-0"
+      }
+    }
+  ],
+  "sorcery!>=0.11.0 <0.12.0-0": [
+    "0.11.0",
+    {
+      "name": "sorcery",
+      "dist": {
+        "tarball": "https://registry.npmjs.org/sorcery/-/sorcery-0.11.0.tgz"
+      },
+      "dependencies": {
+        "@jridgewell/sourcemap-codec": ">=1.4.14 <2.0.0-0",
+        "buffer-crc32": ">=0.2.5 <0.3.0-0",
+        "minimist": ">=1.2.0 <2.0.0-0",
+        "sander": ">=0.5.0 <0.6.0-0"
+      },
+      "bin": {
+        "sorcery": "bin/sorcery"
+      },
+      "scripts": {
+        "build": "rm -rf dist && rollup -c -f cjs -o dist/sorcery.cjs.js && rollup -c -f es6 -o dist/sorcery.es6.js",
+        "ci": "npm run test-coverage && codecov < coverage/coverage-remapped.lcov",
+        "lint": "eslint src",
+        "posttest-coverage": "remap-istanbul -i coverage/coverage-final.json -o coverage/coverage-remapped.json -b dist && remap-istanbul -i coverage/coverage-final.json -o coverage/coverage-remapped.lcov -t lcovonly -b dist && remap-istanbul -i coverage/coverage-final.json -o coverage/coverage-remapped -t html -b dist",
+        "prepare-tests": "node test/samples/prepare-tests.js",
+        "prepublish": "npm test",
+        "pretest": "npm run build",
+        "pretest-coverage": "npm run build",
+        "test": "mocha --compilers js:buble/register",
+        "test-coverage": "rm -rf coverage/* && istanbul cover --report json node_modules/.bin/_mocha -- -u exports -R spec test/test.js"
+      }
+    }
+  ],
+  "source-map-js!>=1.0.2 <2.0.0-0": [
+    "1.0.2",
+    {
+      "name": "source-map-js",
+      "dist": {
+        "tarball": "https://registry.npmjs.org/source-map-js/-/source-map-js-1.0.2.tgz"
+      },
+      "scripts": {
+        "build": "webpack --color",
+        "test": "npm run build && node test/run-tests.js",
+        "toc": "doctoc --title '## Table of Contents' README.md && doctoc --title '## Table of Contents' CONTRIBUTING.md"
+      }
+    }
+  ],
+  "source-map-js!>=0.6.2 <2.0.0": [
+    "1.0.2",
+    {
+      "name": "source-map-js",
+      "dist": {
+        "tarball": "https://registry.npmjs.org/source-map-js/-/source-map-js-1.0.2.tgz"
+      },
+      "scripts": {
+        "build": "webpack --color",
+        "test": "npm run build && node test/run-tests.js",
+        "toc": "doctoc --title '## Table of Contents' README.md && doctoc --title '## Table of Contents' CONTRIBUTING.md"
+      }
+    }
+  ],
+  "streamsearch!>=1.1.0 <2.0.0-0": [
+    "1.1.0",
+    {
+      "name": "streamsearch",
+      "dist": {
+        "tarball": "https://registry.npmjs.org/streamsearch/-/streamsearch-1.1.0.tgz"
+      },
+      "scripts": {
+        "lint": "eslint --cache --report-unused-disable-directives --ext=.js .eslintrc.js lib test",
+        "lint:fix": "npm run lint -- --fix",
+        "test": "node test/test.js"
+      }
+    }
+  ],
+  "strip-indent!>=3.0.0 <4.0.0-0": [
+    "3.0.0",
+    {
+      "name": "strip-indent",
+      "dist": {
+        "tarball": "https://registry.npmjs.org/strip-indent/-/strip-indent-3.0.0.tgz"
+      },
+      "dependencies": {
+        "min-indent": ">=1.0.0 <2.0.0-0"
+      },
+      "scripts": {
+        "test": "xo && ava && tsd"
+      }
+    }
+  ],
+  "supports-preserve-symlinks-flag!>=1.0.0 <2.0.0-0": [
+    "1.0.0",
+    {
+      "name": "supports-preserve-symlinks-flag",
+      "dist": {
+        "tarball": "https://registry.npmjs.org/supports-preserve-symlinks-flag/-/supports-preserve-symlinks-flag-1.0.0.tgz"
+      },
+      "scripts": {
+        "lint": "eslint --ext=js,mjs .",
+        "posttest": "aud --production",
+        "postversion": "auto-changelog && git add CHANGELOG.md && git commit --no-edit --amend && git tag -f \"v$(node -e \"console.log(require('./package.json').version)\")\"",
+        "prepublish": "not-in-publish || npm run prepublishOnly",
+        "prepublishOnly": "safe-publish-latest",
+        "pretest": "npm run lint",
+        "test": "npm run tests-only",
+        "tests-only": "nyc tape 'test/**/*.js'",
+        "version": "auto-changelog && git add CHANGELOG.md"
+      }
+    }
+  ],
+  "svelte!>=3.54.0 <4.0.0-0": [
+    "3.57.0",
+    {
+      "name": "svelte",
+      "dist": {
+        "tarball": "https://registry.npmjs.org/svelte/-/svelte-3.57.0.tgz"
+      },
+      "scripts": {
+        "build": "rollup -c && npm run tsd",
+        "dev": "rollup -cw",
+        "lint": "eslint \"{src,test}/**/*.{ts,js}\" --cache",
+        "posttest": "agadoo internal/index.mjs",
+        "prepare": "node scripts/skip_in_ci.js npm run build",
+        "prepublishOnly": "node check_publish_env.js && npm run lint && npm run build && npm test",
+        "quicktest": "mocha --exit",
+        "test": "npm run test:unit && npm run test:integration",
+        "test:integration": "mocha --exit",
+        "test:unit": "mocha --config .mocharc.unit.js --exit",
+        "tsd": "node ./generate-type-definitions.js"
+      }
+    }
+  ],
+  "svelte-check!>=3.0.1 <4.0.0-0": [
+    "3.1.4",
+    {
+      "name": "svelte-check",
+      "dist": {
+        "tarball": "https://registry.npmjs.org/svelte-check/-/svelte-check-3.1.4.tgz"
+      },
+      "dependencies": {
+        "@jridgewell/trace-mapping": ">=0.3.17 <0.4.0-0",
+        "chokidar": ">=3.4.1 <4.0.0-0",
+        "fast-glob": ">=3.2.7 <4.0.0-0",
+        "import-fresh": ">=3.2.1 <4.0.0-0",
+        "picocolors": ">=1.0.0 <2.0.0-0",
+        "sade": ">=1.7.4 <2.0.0-0",
+        "svelte-preprocess": ">=5.0.0 <6.0.0-0",
+        "typescript": ">=4.9.4 <5.0.0-0"
+      },
+      "bin": {
+        "svelte-check": "bin/svelte-check"
+      },
+      "scripts": {
+        "build": "rollup -c && node ./dist/src/index.js --workspace ./test --tsconfig ./tsconfig.json",
+        "prepublishOnly": "npm run build",
+        "test": "echo 'NOOP'"
+      }
+    }
+  ],
+  "svelte-hmr!>=0.15.1 <0.16.0-0": [
+    "0.15.1",
+    {
+      "name": "svelte-hmr",
+      "dist": {
+        "tarball": "https://registry.npmjs.org/svelte-hmr/-/svelte-hmr-0.15.1.tgz"
+      },
+      "scripts": {
+        "format": "prettier '**/*.{js,cjs,mjs}' --check",
+        "format:fix": "pnpm run format --write",
+        "lint": "eslint '**/*.{js,cjs,mjs}'",
+        "lint:fix": "pnpm run lint --fix",
+        "test": "zoar --exit",
+        "test:fancy": "zoar --pipe 'tap-mocha-reporter spec'"
+      }
+    }
+  ],
+  "svelte-preprocess!>=5.0.0 <6.0.0-0": [
+    "5.0.3",
+    {
+      "name": "svelte-preprocess",
+      "dist": {
+        "tarball": "https://registry.npmjs.org/svelte-preprocess/-/svelte-preprocess-5.0.3.tgz"
+      },
+      "dependencies": {
+        "@types/pug": ">=2.0.6 <3.0.0-0",
+        "detect-indent": ">=6.1.0 <7.0.0-0",
+        "magic-string": ">=0.27.0 <0.28.0-0",
+        "sorcery": ">=0.11.0 <0.12.0-0",
+        "strip-indent": ">=3.0.0 <4.0.0-0"
+      },
+      "scripts": {
+        "build": "tsc --build tsconfig.build.json",
+        "dev": "pnpm build -w",
+        "format": "prettier --write \"**/*.{ts,js,json}\"",
+        "lint": "eslint --ext js,ts .",
+        "major": "npm version major -m 'chore(release): %s'",
+        "minor": "npm version minor -m 'chore(release): %s'",
+        "patch": "npm version patch -m 'chore(release): %s'",
+        "postinstall": "echo \"[svelte-preprocess] Don't forget to install the preprocessors packages that will be used: sass, stylus, less, postcss & postcss-load-config, coffeescript, pug, etc...\"",
+        "prebuild": "node scripts.js rmrf ./dist",
+        "prepare": "husky install",
+        "prepublishOnly": "pnpm test && pnpm build",
+        "test": "jest",
+        "version": "conventional-changelog -p angular -i CHANGELOG.md -s -r 1 && git add CHANGELOG.md"
+      }
+    }
+  ],
+  "tiny-glob!>=0.2.9 <0.3.0-0": [
+    "0.2.9",
+    {
+      "name": "tiny-glob",
+      "dist": {
+        "tarball": "https://registry.npmjs.org/tiny-glob/-/tiny-glob-0.2.9.tgz"
+      },
+      "dependencies": {
+        "globalyzer": "0.1.0",
+        "globrex": ">=0.1.2 <0.2.0-0"
+      },
+      "scripts": {
+        "bench": "node bench",
+        "test": "tape test/*.js | tap-spec"
+      }
+    }
+  ],
+  "to-regex-range!>=5.0.1 <6.0.0-0": [
+    "5.0.1",
+    {
+      "name": "to-regex-range",
+      "dist": {
+        "tarball": "https://registry.npmjs.org/to-regex-range/-/to-regex-range-5.0.1.tgz"
+      },
+      "dependencies": {
+        "is-number": ">=7.0.0 <8.0.0-0"
+      },
+      "scripts": {
+        "test": "mocha"
+      }
+    }
+  ],
+  "totalist!>=3.0.0 <4.0.0-0": [
+    "3.0.0",
+    {
+      "name": "totalist",
+      "dist": {
+        "tarball": "https://registry.npmjs.org/totalist/-/totalist-3.0.0.tgz"
+      },
+      "scripts": {
+        "build": "bundt",
+        "test": "uvu -r esm test -i fixtures"
+      }
+    }
+  ],
+  "tslib!>=2.4.1 <3.0.0-0": [
+    "2.5.0",
+    {
+      "name": "tslib",
+      "dist": {
+        "tarball": "https://registry.npmjs.org/tslib/-/tslib-2.5.0.tgz"
+      }
+    }
+  ],
+  "typescript!>=4.9.3 <5.0.0-0": [
+    "4.9.5",
+    {
+      "name": "typescript",
+      "dist": {
+        "tarball": "https://registry.npmjs.org/typescript/-/typescript-4.9.5.tgz"
+      },
+      "bin": {
+        "tsc": "bin/tsc",
+        "tsserver": "bin/tsserver"
+      },
+      "scripts": {
+        "build": "npm run build:compiler && npm run build:tests",
+        "build:compiler": "gulp local",
+        "build:tests": "gulp tests",
+        "clean": "gulp clean",
+        "gulp": "gulp",
+        "lint": "gulp lint",
+        "setup-hooks": "node scripts/link-hooks.mjs",
+        "start": "node lib/tsc",
+        "test": "gulp runtests-parallel --light=false",
+        "test:eslint-rules": "gulp run-eslint-rules-tests"
+      }
+    }
+  ],
+  "typescript!>=4.9.4 <5.0.0-0": [
+    "4.9.5",
+    {
+      "name": "typescript",
+      "dist": {
+        "tarball": "https://registry.npmjs.org/typescript/-/typescript-4.9.5.tgz"
+      },
+      "bin": {
+        "tsc": "bin/tsc",
+        "tsserver": "bin/tsserver"
+      },
+      "scripts": {
+        "build": "npm run build:compiler && npm run build:tests",
+        "build:compiler": "gulp local",
+        "build:tests": "gulp tests",
+        "clean": "gulp clean",
+        "gulp": "gulp",
+        "lint": "gulp lint",
+        "setup-hooks": "node scripts/link-hooks.mjs",
+        "start": "node lib/tsc",
+        "test": "gulp runtests-parallel --light=false",
+        "test:eslint-rules": "gulp run-eslint-rules-tests"
+      }
+    }
+  ],
+  "undici!5.21.0": [
+    "5.21.0",
+    {
+      "name": "undici",
+      "dist": {
+        "tarball": "https://registry.npmjs.org/undici/-/undici-5.21.0.tgz"
+      },
+      "dependencies": {
+        "busboy": ">=1.6.0 <2.0.0-0"
+      },
+      "scripts": {
+        "bench": "PORT=3042 concurrently -k -s first npm:bench:server npm:bench:run",
+        "bench:run": "CONNECTIONS=1 node --experimental-wasm-simd benchmarks/benchmark.js; CONNECTIONS=50 node --experimental-wasm-simd benchmarks/benchmark.js",
+        "bench:server": "node benchmarks/server.js",
+        "build:node": "npx esbuild@0.14.38 index-fetch.js --bundle --platform=node --outfile=undici-fetch.js",
+        "build:wasm": "node build/wasm.js --docker",
+        "coverage": "nyc --reporter=text --reporter=html npm run test",
+        "coverage:ci": "nyc --reporter=lcov npm run test",
+        "fuzz": "jsfuzz test/fuzzing/fuzz.js corpus",
+        "lint": "standard | snazzy",
+        "lint:fix": "standard --fix | snazzy",
+        "prebench:run": "node benchmarks/wait.js",
+        "prebuild:wasm": "docker build -t llhttp_wasm_builder -f build/Dockerfile .",
+        "prepare": "husky install",
+        "serve:website": "docsify serve .",
+        "test": "npm run test:tap && npm run test:node-fetch && npm run test:fetch && npm run test:cookies && npm run test:wpt && npm run test:websocket && npm run test:jest && tsd",
+        "test:cookies": "node scripts/verifyVersion 16 || tap test/cookie/*.js",
+        "test:fetch": "node scripts/verifyVersion.js 16 || (npm run build:node && tap test/fetch/*.js && tap test/webidl/*.js)",
+        "test:jest": "node scripts/verifyVersion.js 14 || jest",
+        "test:node-fetch": "node scripts/verifyVersion.js 16 || mocha test/node-fetch",
+        "test:tap": "tap test/*.js test/diagnostics-channel/*.js",
+        "test:tdd": "tap test/*.js test/diagnostics-channel/*.js -w",
+        "test:typescript": "tsd && tsc test/imports/undici-import.ts",
+        "test:websocket": "node scripts/verifyVersion.js 18 || tap test/websocket/*.js",
+        "test:wpt": "node scripts/verifyVersion 18 || (node test/wpt/start-fetch.mjs && node test/wpt/start-FileAPI.mjs && node test/wpt/start-mimesniff.mjs && node test/wpt/start-xhr.mjs && node --no-warnings test/wpt/start-websockets.mjs)"
+      }
+    }
+  ],
+  "vite!>=4.0.0 <5.0.0-0": [
+    "4.2.1",
+    {
+      "name": "vite",
+      "dist": {
+        "tarball": "https://registry.npmjs.org/vite/-/vite-4.2.1.tgz"
+      },
+      "dependencies": {
+        "esbuild": ">=0.17.5 <0.18.0-0",
+        "fsevents": ">=2.3.2 <2.4.0-0",
+        "postcss": ">=8.4.21 <9.0.0-0",
+        "resolve": ">=1.22.1 <2.0.0-0",
+        "rollup": ">=3.18.0 <4.0.0-0"
+      },
+      "optionalDependencies": {
+        "fsevents": ">=2.3.2 <2.4.0-0"
+      },
+      "bin": {
+        "vite": "bin/vite.js"
+      },
+      "scripts": {
+        "build": "rimraf dist && run-s build-bundle build-types",
+        "build-bundle": "rollup --config rollup.config.ts --configPlugin typescript",
+        "build-types": "run-s build-types-temp build-types-pre-patch build-types-roll build-types-post-patch build-types-check",
+        "build-types-check": "tsx scripts/checkBuiltTypes.ts && tsc --project tsconfig.check.json",
+        "build-types-post-patch": "tsx scripts/postPatchTypes.ts",
+        "build-types-pre-patch": "tsx scripts/prePatchTypes.ts",
+        "build-types-roll": "api-extractor run && rimraf temp",
+        "build-types-temp": "tsc --emitDeclarationOnly --outDir temp/node -p src/node",
+        "dev": "rimraf dist && pnpm run build-bundle -w",
+        "format": "prettier --write --cache --parser typescript \"src/**/*.ts\"",
+        "lint": "eslint --cache --ext .ts src/**",
+        "prepublishOnly": "npm run build",
+        "typecheck": "tsc --noEmit"
+      }
+    }
+  ],
+  "vitefu!>=0.2.4 <0.3.0-0": [
+    "0.2.4",
+    {
+      "name": "vitefu",
+      "dist": {
+        "tarball": "https://registry.npmjs.org/vitefu/-/vitefu-0.2.4.tgz"
+      },
+      "scripts": {
+        "test": "uvu tests \".*\\.test\\.js\""
+      }
+    }
+  ],
+  "wrappy!>=1.0.0 <2.0.0-0": [
+    "1.0.2",
+    {
+      "name": "wrappy",
+      "dist": {
+        "tarball": "https://registry.npmjs.org/wrappy/-/wrappy-1.0.2.tgz"
+      },
+      "scripts": {
+        "test": "tap --coverage test/*.js"
+      }
+    }
+  ]
+}
